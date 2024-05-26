@@ -10,6 +10,12 @@
 4. Expand
 5. Crystallize
 
+## Services
+
+1. Brand packages
+2. Research
+3. Career development
+
 <!--
 
 **Here are some ideas to get you started:**
