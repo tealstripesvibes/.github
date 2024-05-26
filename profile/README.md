@@ -2,6 +2,14 @@
 
 ## Developmental Media
 
+## Our Process
+
+1. Manifest
+2. Release
+3. Iterate
+4. Expand
+5. Crystallize
+
 <!--
 
 **Here are some ideas to get you started:**
