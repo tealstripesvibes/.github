@@ -12,9 +12,9 @@
 
 ## Services
 
-1. Brand packages
-2. Research
-3. Career development
+1. [Brand Packages](https://github.com/orgs/tealstripesvibes/discussions/2)
+2. [Research Projects](https://github.com/orgs/tealstripesvibes/discussions/3)
+3. [Career Development](https://github.com/orgs/tealstripesvibes/discussions/4)
 
 <!--
 
