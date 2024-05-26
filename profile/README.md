@@ -2,7 +2,7 @@
 
 ## Developmental Media
 
-## Our Process
+## Process
 
 1. Manifest
 2. Release
