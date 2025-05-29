@@ -5,16 +5,16 @@
 ### Process
 
 1. Manifest
-2. Release
-3. Iterate
-4. Expand
-5. Crystallize
+1. Release
+1. Iterate
+1. Expand
+1. Crystallize
 
 ## Services
 
 1. [Brand Packages](https://github.com/orgs/tealstripesvibes/discussions/2)
-2. [Research Projects](https://github.com/orgs/tealstripesvibes/discussions/3)
-3. [Career Development](https://github.com/orgs/tealstripesvibes/discussions/4)
+1. [Research Projects](https://github.com/orgs/tealstripesvibes/discussions/3)
+1. [Career Development](https://github.com/orgs/tealstripesvibes/discussions/4)
 
 <!--
 
